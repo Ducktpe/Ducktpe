@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Paul Gab 👋</h1> <h3 align="center">Information Technology Graduate | Full-Stack Web Developer</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Backend+%7C+Database+Enthusiast;Building+practical+software+solutions" alt="Typing SVG" /> </p>
 👨‍💻 About Me
-🎓 Bachelor of Science in Information Technology graduate from Cavite State University, Trece Martires City (2022–2026)
+🎓 Graduated — Bachelor of Science in Information Technology, Cavite State University, Trece Martires City (2022–2026)
 💻 Hands-on experience in full-stack web development, backend development, and database management through academic and project-based work
 🔐 Experienced in building web apps involving authentication, real-time communication, and database integration
 🌱 Interested in web development, programming, and building practical software solutions
