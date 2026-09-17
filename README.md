@@ -39,5 +39,5 @@ Hardware: PC Assembly/Troubleshooting · Networking · Peripherals
 
 <br> <p align="left"> <img src="https://skillicons.dev/icons?i=js,nodejs,vue,mysql,php,java,python,html,css,git,vscode" /> </p>
 📫 Connect with Me
-<p align="left"> <a href="mailto:paulgabrielgeronaga0@gmal.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/paul-gabriel-geronaga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+<p align="left"> <a href="mailto:paulgabrielgeronaga0@gmal.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="linkedin.com/in/paul-gabriel-geronaga-991a4b436"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 <p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i></p>
